@@ -1,8 +1,8 @@
-package com.designPatterns.factory.abstractFactory;
+package com.designPatterns.a03factory.abstractFactory;
 
-import com.designPatterns.factory.bean.Food;
-import com.designPatterns.factory.bean.Vehicle;
-import com.designPatterns.factory.bean.Weapon;
+import com.designPatterns.a03factory.bean.Food;
+import com.designPatterns.a03factory.bean.Vehicle;
+import com.designPatterns.a03factory.bean.Weapon;
 
 /**
  * 抽象工厂的具体实现

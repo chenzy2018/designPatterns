@@ -1,4 +1,4 @@
-package com.designPatterns.singleton;
+package com.designPatterns.a01singleton;
 
 /**
  * 静态内部类

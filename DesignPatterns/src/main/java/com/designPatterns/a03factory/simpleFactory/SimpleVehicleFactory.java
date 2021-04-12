@@ -1,8 +1,7 @@
-package com.designPatterns.factory.simpleFactory;
+package com.designPatterns.a03factory.simpleFactory;
 
-import com.designPatterns.factory.bean.Car;
-import com.designPatterns.factory.bean.Moveable;
-import com.designPatterns.factory.bean.Plane;
+import com.designPatterns.a03factory.bean.Car;
+import com.designPatterns.a03factory.bean.Moveable;
 
 /**
  * 简单工厂

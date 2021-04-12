@@ -1,4 +1,4 @@
-package com.designPatterns.singleton;
+package com.designPatterns.a01singleton;
 
 /**
  * 枚举方式

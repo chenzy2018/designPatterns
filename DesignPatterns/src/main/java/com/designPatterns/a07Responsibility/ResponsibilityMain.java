@@ -63,7 +63,7 @@ class Msg{
 }
 
 interface Filter{
-    boolean doFilter(Msg m);//boolean用于控制是否往下执行
+    boolean doFilter(Msg m);//boolean用于控制是否往下执行，false就停止执行
 }
 
 //字符替换，半条变全角

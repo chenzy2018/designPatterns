@@ -1,5 +1,7 @@
 package com.designPatterns.a06Decorator;
 
+import com.designPatterns.Shape;
+
 /**
  * 图形颜色装饰器具体实现
  */

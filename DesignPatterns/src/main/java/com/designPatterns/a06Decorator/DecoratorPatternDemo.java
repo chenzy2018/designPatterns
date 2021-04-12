@@ -1,6 +1,9 @@
 package com.designPatterns.a06Decorator;
 
 
+import com.designPatterns.Rectangle;
+import com.designPatterns.Shape;
+
 public class DecoratorPatternDemo {
     public static void main(String[] args) {
 

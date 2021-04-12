@@ -2,6 +2,9 @@ package com.designPatterns.strategy;
 
 import java.util.Arrays;
 
+/**
+ * 策略模式Main
+ */
 public class StrategyMain {
     public static void main(String[] args) {
         int[] a = {9,2,3,8,5,6,4};

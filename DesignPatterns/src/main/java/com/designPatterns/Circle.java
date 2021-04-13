@@ -7,6 +7,8 @@ public class Circle implements Shape {
     private int y;
     private int radius;
 
+    public Circle(){}
+
     public Circle(String color){
         this.color = color;
     }

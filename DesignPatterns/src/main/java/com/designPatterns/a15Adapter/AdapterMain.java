@@ -1,4 +1,4 @@
-package com.designPatterns.a16Adapter;
+package com.designPatterns.a15Adapter;
 
 /**
  * 适配器

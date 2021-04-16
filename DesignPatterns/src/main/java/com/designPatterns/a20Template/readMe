@@ -1,0 +1,4 @@
+模板方法(钩子函数)：
+
+    典型案例：spring的refresh方法
+        classLoader的findClass方法

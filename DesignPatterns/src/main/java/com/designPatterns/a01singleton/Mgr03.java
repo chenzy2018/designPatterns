@@ -14,7 +14,7 @@ public class Mgr03 {
     //DCL(double check lock)
     public static Mgr03 getInstance(){
         if(instance == null){
-            synchronized (instance){
+            synchronized (Mgr03.class){
                 if(instance == null) instance = new Mgr03();
             }
         }
@@ -23,5 +23,10 @@ public class Mgr03 {
 
     public void m(){
         System.out.println("m");
+    }
+
+    public static void main(String[] args) {
+        System.out.println(Mgr03.getInstance());
+        System.out.println(Mgr03.getInstance());
     }
 }
